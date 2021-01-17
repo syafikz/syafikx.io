@@ -1,11 +1,11 @@
 {
   "pc": "com.zayviusdigital.guide40",
-  "unity_ads": "3970843",
+  "unity_ads": "3977075",
   "kang_zayvius": [      
      {
       "id": "1",
       "tittle": "Guide 1",
-      "link_html": "",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/1-toca.html",
       "images": "https://play-lh.googleusercontent.com/5UlujZnC1tvivlhOEx4oJsDO6NG4ucFKThmvtAaE7tF45vfupWwClk1U1meoQiGIRnQ=w720-h310-rw"
      }
   ]
