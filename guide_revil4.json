@@ -1,0 +1,66 @@
+{
+  "pc": "com.zayviusdigital.guide40",
+  "unity_ads": "3970843",
+  "kang_zayvius": [      
+     {
+      "id": "1",
+      "tittle": "Guide 1",
+      "link_html": "",
+      "images": ""
+     },
+	 {
+      "id": "1",
+      "tittle": "Guide 2",
+      "link_html": "",
+      "images": ""
+     },
+	 {
+      "id": "1",
+      "tittle": "Guide 3",
+      "link_html": "",
+      "images": ""
+     },
+	 {
+      "id": "1",
+      "tittle": "Guide 4",
+      "link_html": "",
+      "images": ""
+     },
+	 {
+      "id": "1",
+      "tittle": "Guide 5",
+      "link_html": "",
+      "images": ""
+     },
+	 {
+      "id": "1",
+      "tittle": "Guide 6",
+      "link_html": "",
+      "images": ""
+     },
+	 {
+      "id": "1",
+      "tittle": "Guide 7",
+      "link_html": "",
+      "images": ""
+     },
+	 {
+      "id": "1",
+      "tittle": "Guide 8",
+      "link_html": "",
+      "images": ""
+     },
+	 {
+      "id": "1",
+      "tittle": "Guide 9",
+      "link_html": "",
+      "images": ""
+     },
+	 {
+      "id": "1",
+      "tittle": "Guide 10",
+      "link_html": "",
+      "images": ""
+     }
+  ]
+}
