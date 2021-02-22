@@ -5,62 +5,80 @@
      {
       "id": "1",
       "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Fake%20tasks%20(properly!).html",
+      "images": "https://cdn.mos.cms.futurecdn.net/f2E3CPjTbScinCaUm7rHNT-970-80.jpg.webpg"
      },
-	 {
+     {
       "id": "2",
-      "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "tittle": "Guide 2",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Kill%20immune%20players%20immediately.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/DupgsDQfnLgeprnwbQn3eT-970-80.jpg.webp"
      },
-	 {
+     {
       "id": "3",
-      "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "tittle": "Guide 3",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Act%20like%20a%20Crewmate.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/HJBzAv2cAMmgSCJwqKaRtS-970-80.jpg.webp"
      },
-	 {
+     {
       "id": "4",
-      "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "tittle": "Guide 4",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Take%20initiative.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/dDAE3jrrFRgiSoembwTr8U-970-80.jpg.webp"
      },
-	 {
+     {
       "id": "5",
-      "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "tittle": "Guide 5",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/%E2%80%98Help%E2%80%99%20Crewmates%20(but%20not%20really).html",
+      "images": "https://cdn.mos.cms.futurecdn.net/vfG3DSprxEr5dwfWqaQC3U-970-80.jpg.webp"
      },
-	 {
+     {
       "id": "6",
-      "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "tittle": "Guide 6",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Crowd%20kill.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/XF3NQWLnY4VX4QrgSSJpFT-970-80.jpg.webp"
      },
-	 {
+     {
       "id": "7",
-      "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "tittle": "Guide 7",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Vent%20multi-kill.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/wShNbkTgDkrnEUirytWRMU-970-80.jpg.webp"
      },
-	 {
+     {
       "id": "8",
-      "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "tittle": "Guide 8",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Mind%20the%20cameras.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/KmiCPZGVVxK2BKkaN7qgkT-970-80.jpg.webp"
      },
-	 {
+     {
       "id": "9",
-      "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "tittle": "Guide 9",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Keep%20track%20of%20the%20numbers.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/99UBxqxhhYLvzRPzhtjtVT-970-80.jpg.webp"
      },
-	 {
+     {
       "id": "10",
-      "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "tittle": "Guide 10",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Pretend%20to%20be%20AFK.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/u7jjaKkmtn2W5rZDEx8CrT-970-80.jpg.webp"
+     },
+     {
+      "id": "11",
+      "tittle": "Guide 11",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Among%20us%20The%20Skeld%20map.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/PBEUgpzBreCHfdChcGfCEh-970-80.jpg.webp"
+     },
+     {
+      "id": "12",
+      "tittle": "Guide 12",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Among%20us%20Mira%20HQ%20map.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/zX9hKw7KVtaAc7fTfhJ7tg-970-80.jpg.webp"
+     },
+     {
+      "id": "13",
+      "tittle": "Guide 13",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/Among%20Us%20Polus%20map.html",
+      "images": "https://cdn.mos.cms.futurecdn.net/8ta9bNosH3zyugjUpbrf4h-970-80.jpg.webp"
      }
   ]
 }
