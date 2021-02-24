@@ -74,6 +74,13 @@
       "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/8.html",
       "link_file": "https://www.minecraftmaps.com/house-maps/island-house/download",
       "images": "https://www.minecraftmaps.com/images/jdownloads/screenshots/mc%20maps%20Island%20House%201.jpeg"
+     },
+     {
+      "id": "9",
+      "tittle": "Guide 9",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/9.html",
+      "link_file": "https://www.minecraftmaps.com/house-maps/redstone-library/download",
+      "images": "https://www.minecraftmaps.com/images/jdownloads/screenshots/mc%20maps%20Redstone%20Library%201.png"
      }
   ]
 }
