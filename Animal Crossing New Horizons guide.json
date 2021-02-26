@@ -1,0 +1,65 @@
+{
+  "pc": "com.zayviusdigital.guide40",
+  "switch_ads": "1",
+  "interval_inter": "2",
+  "unity_ads": [      
+    {
+      "id_switch": "1",
+      "id_unity_ads": "",
+      "mode_tes": "true",
+      "placement_banner": "bannerid",
+      "placement_inter": "video"
+     }
+  ],
+  "applovin": [      
+    {
+      "id_switch": "2",
+      "zone_banner": "29149b50a8c98c59",
+      "zone_inter": "70d116e79ba42436"
+     }
+  ],
+  "list_content": [      
+    {
+      "id": "1",
+      "tittle": "WHAT TO DO ON DAY 1",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/acnh1.html",
+      "link_file": "",
+      "images": "https://d2skuhm0vrry40.cloudfront.net/2020/articles/2020-03-20-12-09/animal-crossing-new-horizons-tips-guide-7018-1584706168848.jpg/EG11/resize/1200x-1/animal-crossing-new-horizons-tips-guide-7018-1584706168848.jpg"
+     },
+    {
+      "id": "2",
+      "tittle": "WHAT TO DO ON DAY 2",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/acnh2.html",
+      "link_file": "",
+      "images": "https://cdn.vox-cdn.com/thumbor/Fwwu8VNx_8srJD5D5IeDnI2-d5Q=/0x0:1280x720/920x0/filters:focal(0x0:1280x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19811779/2020030112155300_02CB906EA538A35643C1E1484C4B947D.jpg"
+     },
+	 {
+      "id": "3",
+      "tittle": "WHAT TO DO ON DAY 3",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/acnh3.html",
+      "link_file": "",
+      "images": "https://cdn.vox-cdn.com/thumbor/kmbJL36JJsQ8Qv3Zfq8qVHBmcnA=/0x0:1280x720/920x0/filters:focal(0x0:1280x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19811785/2020031615363000_02CB906EA538A35643C1E1484C4B947D.jpg"
+     },
+	 {
+      "id": "4",
+      "tittle": "WHAT TO DO ON DAY 4",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/acnh4.html",
+      "link_file": "",
+      "images": "https://cdn.vox-cdn.com/thumbor/0H8GqttEdv-rs85zhsve0cu6c9A=/0x0:1280x720/920x0/filters:focal(0x0:1280x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19811787/2020031615373600_02CB906EA538A35643C1E1484C4B947D.jpg"
+     },
+	 {
+      "id": "5",
+      "tittle": "WHAT TO DO ON DAY 5",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/acnh5.html",
+      "link_file": "",
+      "images": "https://cdn.vox-cdn.com/thumbor/QAbb6QBSNDtfQifGLvCWN6ZAn0o=/0x0:1280x720/920x0/filters:focal(0x0:1280x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19811791/2020031615390700_02CB906EA538A35643C1E1484C4B947D.jpg"
+     },
+	 {
+      "id": "6",
+      "tittle": "WHAT TO DO ON DAY 6",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/acnh6.html",
+      "link_file": "",
+      "images": "https://cdn.vox-cdn.com/thumbor/QAbb6QBSNDtfQifGLvCWN6ZAn0o=/0x0:1280x720/920x0/filters:focal(0x0:1280x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19811791/2020031615390700_02CB906EA538A35643C1E1484C4B947D.jpg"
+     }
+  ]
+}
