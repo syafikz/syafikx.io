@@ -1,0 +1,58 @@
+{
+  "pc": "com.syafikdev.beyblad_2020guide",
+  "switch_ads": "1",
+  "interval_inter": "2",
+  "unity_ads": [      
+    {
+      "id_switch": "1",
+      "id_unity_ads": "4027695",
+      "mode_tes": "false",
+      "placement_banner": "bannerid",
+      "placement_inter": "video"
+     }
+  ],
+  "applovin": [      
+    {
+      "id_switch": "2",
+      "zone_banner": "29149b50a8c98c59",
+      "zone_inter": "70d116e79ba42436"
+     }
+  ],
+  "list_content": [      
+    {
+      "id": "1",
+      "tittle": "Beyblade Basics",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/beyblade1.html",
+      "link_file": "",
+      "images": "https://1.bp.blogspot.com/-Xi2ACAw4xp8/YDhAkGXIKaI/AAAAAAAAA6g/GUtsJbu63YU7yVRIyX63Dxdbhwmwu1hbgCLcBGAsYHQ/s1010/unnamed.png"
+     },
+    {
+      "id": "2",
+      "tittle": "Tips for Tops",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/beyblade2.html",
+      "link_file": "",
+      "images": "https://1.bp.blogspot.com/-Xi2ACAw4xp8/YDhAkGXIKaI/AAAAAAAAA6g/GUtsJbu63YU7yVRIyX63Dxdbhwmwu1hbgCLcBGAsYHQ/s1010/unnamed.png"
+     },
+	 {
+      "id": "3",
+      "tittle": "Bey Battle Basics",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/beyblade3.html",
+      "link_file": "",
+      "images": "https://1.bp.blogspot.com/-Xi2ACAw4xp8/YDhAkGXIKaI/AAAAAAAAA6g/GUtsJbu63YU7yVRIyX63Dxdbhwmwu1hbgCLcBGAsYHQ/s1010/unnamed.png"
+     },
+	 {
+      "id": "4",
+      "tittle": "Make sure you have the latest Beyblade",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/bayblade4.html",
+      "link_file": "",
+      "images": "https://1.bp.blogspot.com/-Xi2ACAw4xp8/YDhAkGXIKaI/AAAAAAAAA6g/GUtsJbu63YU7yVRIyX63Dxdbhwmwu1hbgCLcBGAsYHQ/s1010/unnamed.png"
+     },
+	 {
+      "id": "5",
+      "tittle": "Special launcher into a beyblade stadium",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/beyblade5.html",
+      "link_file": "",
+      "images": "https://1.bp.blogspot.com/-Xi2ACAw4xp8/YDhAkGXIKaI/AAAAAAAAA6g/GUtsJbu63YU7yVRIyX63Dxdbhwmwu1hbgCLcBGAsYHQ/s1010/unnamed.png"
+     }
+  ]
+}
