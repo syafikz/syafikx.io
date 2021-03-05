@@ -1,5 +1,5 @@
 {
-  "pc": "com.syafikdev.guidefallguyq",
+  "pc": "com.syafikdev.guidefallguy",
   "switch_ads": "2",
   "interval_inter": "2",
   "unity_ads": [      
@@ -21,17 +21,10 @@
   "list_content": [      
     {
       "id": "1",
-      "tittle": "Guide 1",
-      "link_html": "",
+      "tittle": "Mission 1 to 5",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/whos%20daddy%201.html",
       "link_file": "",
-      "images": ""
-     },
-    {
-      "id": "2",
-      "tittle": "Guide 2",
-      "link_html": "",
-      "link_file": "",
-      "images": ""
+      "images": "https://1.bp.blogspot.com/-7DnLvvM80R4/YEHvethbIiI/AAAAAAAAA60/TeiAIGmynq0DTOsafmeOts7VrcJlnWljgCLcBGAsYHQ/s973/SAVE_20210305_162347.jpg"
      }
   ]
 }
