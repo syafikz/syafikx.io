@@ -1,6 +1,6 @@
 {
-  "pc": "com.zayviusdigital.guide40",
-  "switch_ads": "1",
+  "pc": "com.whosguide.whosguide",
+  "switch_ads": "2",
   "interval_inter": "2",
   "unity_ads": [      
     {
@@ -14,24 +14,24 @@
   "applovin": [      
     {
       "id_switch": "2",
-      "zone_banner": "29149b50a8c98c59",
-      "zone_inter": "70d116e79ba42436"
+      "zone_banner": "581ed5278ff1b352",
+      "zone_inter": "f2af3592e68aa75a"
      }
   ],
   "list_content": [      
-    {
+     {
       "id": "1",
-      "tittle": "Guide 1",
-      "link_html": "",
+      "tittle": "Mission 1 to 5",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/whos%20daddy%201.html",
       "link_file": "",
-      "images": ""
+      "images": "https://1.bp.blogspot.com/-7DnLvvM80R4/YEHvethbIiI/AAAAAAAAA60/TeiAIGmynq0DTOsafmeOts7VrcJlnWljgCLcBGAsYHQ/s973/SAVE_20210305_162347.jpg"
      },
-    {
+     {
       "id": "2",
-      "tittle": "Guide 2",
-      "link_html": "",
+      "tittle": "Mission 6 to 10",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/2.html",
       "link_file": "",
-      "images": ""
+      "images": "https://techraptor.net/sites/default/files/styles/image_header/public/2019-12/Who%27s%20Your%20Daddy%20Remake%20Ride%20The%20Lightning.jpg?itok=FvyjXKAa"
      }
   ]
 }
