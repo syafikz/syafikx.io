@@ -14,24 +14,60 @@
   "applovin": [      
     {
       "id_switch": "2",
-      "zone_banner": "29149b50a8c98c59",
-      "zone_inter": "70d116e79ba42436"
+      "zone_banner": "",
+      "zone_inter": ""
      }
   ],
   "list_content": [      
-    {
+     {
       "id": "1",
-      "tittle": "Guide 1",
-      "link_html": "",
+      "tittle": "The Wilderness",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/litte%20nightmare%201.html",
       "link_file": "",
-      "images": ""
+      "images": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/little-nightmares-2/0/02/IMG_3174.JPG?width=640"
      },
-    {
+     {
       "id": "2",
-      "tittle": "Guide 2",
-      "link_html": "",
+      "tittle": "The School",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/litte%20nightmare%202.html",
       "link_file": "",
-      "images": ""
+      "images": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/little-nightmares-2/c/c6/IMG_3233.JPG?width=640"
+     },
+     {
+      "id": "3",
+      "tittle": "The Hospital",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/litte%20nightmare%203.html",
+      "link_file": "",
+      "images": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/little-nightmares-2/8/81/IMG_3290.JPG?width=640"
+     },
+     {
+      "id": "4",
+      "tittle": "The Pale City",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/litte%20nightmare%204.html",
+      "link_file": "",
+      "images": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/little-nightmares-2/0/08/IMG_3402.JPG?width=640"
+     },
+     {
+      "id": "5",
+      "tittle": "The Hospital",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/litte%20nightmare%203.html",
+      "link_file": "",
+      "images": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/little-nightmares-2/8/81/IMG_3290.JPG?width=640"
+     },
+     {
+      "id": "6",
+      "tittle": "The Pale City",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/litte%20nightmare%204.html",
+      "link_file": "",
+      "images": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/little-nightmares-2/0/08/IMG_3402.JPG?width=640"
+     },
+     {
+      "id": "7",
+      "tittle": "The Signal Tower",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/litte%20nightmare%205.html",
+      "link_file": "",
+      "images": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/little-nightmares-2/b/b8/IMG_3449.JPG?width=640"
      }
+    
   ]
 }
