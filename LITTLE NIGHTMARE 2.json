@@ -1,11 +1,11 @@
 {
   "pc": "com.syafikdev.littlenighttips",
-  "switch_ads": "2",
+  "switch_ads": "1",
   "interval_inter": "2",
   "unity_ads": [      
     {
       "id_switch": "1",
-      "id_unity_ads": "",
+      "id_unity_ads": "4048463",
       "mode_tes": "false",
       "placement_banner": "bannerid",
       "placement_inter": "video"
