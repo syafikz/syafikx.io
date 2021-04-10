@@ -22,14 +22,7 @@
     {
       "id": "1",
       "tittle": "Guide 1",
-      "link_html": "",
-      "link_file": "",
-      "images": ""
-     },
-    {
-      "id": "2",
-      "tittle": "Guide 2",
-      "link_html": "",
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/zombie%20mcpe/1.html",
       "link_file": "",
       "images": ""
      }
