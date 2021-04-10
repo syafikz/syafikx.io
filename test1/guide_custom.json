@@ -1,12 +1,30 @@
 {
   "pc": "com.zayviusdigital.guide40",
-  "unity_ads": "3970843",
-  "kang_zayvius": [      
-     {
+  "switch_ads": "1",
+  "interval_inter": "2",
+  "unity_ads": [      
+    {
+      "id_switch": "1",
+      "id_unity_ads": "",
+      "mode_tes": "true",
+      "placement_banner": "bannerid",
+      "placement_inter": "video"
+     }
+  ],
+  "applovin": [      
+    {
+      "id_switch": "2",
+      "zone_banner": "29149b50a8c98c59",
+      "zone_inter": "70d116e79ba42436"
+     }
+  ],
+  "list_content": [      
+    {
       "id": "1",
       "tittle": "Guide 1",
-      "link_html": "",
-      "images": ""
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/test1/1.html",
+      "link_file": "https://download857.mediafire.com/s6aj87wffmng/uo7kurj7bxibh9i/Attack+on+Titan+Skin+Pack.mcpack",
+      "images": "https://image7.uhdpaper.com/wallpaper-hd/jujutsu-kaisen-yuji-itadori-sukuna-mark-uhdpaper.com-hd-7.3279.jpg"
      }
   ]
 }
