@@ -1,0 +1,715 @@
+{
+  "pc": "com.zayviusdigital.guide40",
+  "switch_ads": "1",
+  "interval_inter": "2",
+  "unity_ads": [      
+    {
+      "id_switch": "1",
+      "id_unity_ads": "",
+      "mode_tes": "true",
+      "placement_banner": "bannerid",
+      "placement_inter": "video"
+     }
+  ],
+  "applovin": [      
+    {
+      "id_switch": "2",
+      "zone_banner": "29149b50a8c98c59",
+      "zone_inter": "70d116e79ba42436"
+     }
+  ],
+  "list_content": [      
+    {
+      "id": "1",
+      "tittle": "skinny zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(1).html?token=ARV7RQ5RCOFNMOIAQPXBNWDAM3JC2",
+      "link_file": "https://www.minecraftskins.com/skin/download/17315206?title=skinny+zombie",
+      "images": "https://1.bp.blogspot.com/-_Ezg0ArxCgM/YGbIXR_rpMI/AAAAAAAAAAM/kUiT2PRtdScDhL4vkyDIwbjVape8keGjACLcBGAsYHQ/s537/Screenshot_1.png"
+     },
+    {
+      "id": "2",
+      "tittle": "Zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(2).html?token=ARV7RQZ2WYA3AVLQIKOVJVTAM3LO6",
+      "link_file": "https://www.minecraftskins.com/skin/download/17329454?title=Zombie",
+      "images": "https://1.bp.blogspot.com/-zD4knsTPIBo/YGbSy0NaVeI/AAAAAAAAAAU/r8Jy45D1HRQLFMYx0y_eY6MAmcEVnHvkwCLcBGAsYHQ/s538/tyyyw.png"
+     },
+	 {
+      "id": "3",
+      "tittle": "Green Endy",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(3).html?token=ARV7RQ33W34MI77ZBFG6KETAM4LFS",
+      "link_file": "https://www.minecraftskins.com/skin/download/17328444?title=Green+Endy",
+      "images": "https://1.bp.blogspot.com/-SNSNLgswxDw/YGbYCsfDECI/AAAAAAAAAAc/5Uyv8LqJ2Bokly41APOkJcwVlKxFy8MrQCLcBGAsYHQ/s539/tyhdsf.png"
+     },
+    {
+      "id": "4",
+      "tittle": "Planet3arth (Zombie)",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(4).html?token=ARV7RQ7MAMRIKACU6XKN7JLAM4MJK",
+      "link_file": "https://www.minecraftskins.com/skin/download/17334613?title=Planet3arth+%28Zombie%29",
+      "images": "https://1.bp.blogspot.com/-tTm835gsIis/YGcXKFCGN7I/AAAAAAAAAAk/iEnKnGXQmFQcUNLrL7tTbCQh5Dr-tluUACLcBGAsYHQ/s539/Screenshot_vc1.png"
+     },
+	 {
+      "id": "5",
+      "tittle": "Zombie steve (right side)",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(5).html?token=ARV7RQ7I3XJANYJNTGTWUJLAM4M2M",
+      "link_file": "https://www.minecraftskins.com/skin/download/17333472?title=Zombie+steve+%28right+side%29",
+      "images": "https://1.bp.blogspot.com/-MbYN7BQzhdk/YGcY2Vo8_xI/AAAAAAAAAAs/8FrcxQdoU1YfFhdJq2lJCfDh0dehE433gCLcBGAsYHQ/s537/mnmn.png"
+     },
+    {
+      "id": "6",
+      "tittle": "soul zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(6).html?token=ARV7RQYB7QYZNZGIXZUKBTDAM4OEM",
+      "link_file": "https://www.minecraftskins.com/skin/download/17334035?title=soul+zombie",
+      "images": "https://1.bp.blogspot.com/-Gw3NR6mSOCg/YGcbFD3I5lI/AAAAAAAAAA0/lgfdnn2H_rAxcMOV5al0PRzJsU1XhoeRgCLcBGAsYHQ/s537/Snb.png"
+     },
+	 {
+      "id": "7",
+      "tittle": "Am Good Boy !!!!!",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(7).html?token=ARV7RQ3OOZTIQCGM466CYO3AM4PRQ",
+      "link_file": "https://www.minecraftskins.com/skin/download/17333881?title=Am+Good+Boy+%21%21%21%21%21",
+      "images": "https://1.bp.blogspot.com/-7DKYzrHM2Ew/YGceIMA8tLI/AAAAAAAAAA8/L-WovGI6kBERx0-DXAwT0wv5eVczSYROACLcBGAsYHQ/s538/khkh.png"
+     },
+    {
+      "id": "8",
+      "tittle": "Zombie girl",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(8).html?token=ARV7RQ5BG5265COSY4EXNLTAM4RCI",
+      "link_file": "https://www.minecraftskins.com/skin/download/17331126?title=Zombie+girl",
+      "images": "https://1.bp.blogspot.com/-RBtAfVbRRmU/YGcggSB5U7I/AAAAAAAAABE/4JQPf4sxjtkCb7TbkPJcXfM4qHNN9EGSQCLcBGAsYHQ/s538/%252Cn%252Cn.png"
+     },
+	 {
+      "id": "9",
+      "tittle": "Zombified Piglin - Purple",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(9).html?token=ARV7RQ6LZ2WEEZOAMF5DOVTAM4RTK",
+      "link_file": "https://www.minecraftskins.com/skin/download/17329109?title=Zombified+Piglin+-+Purple",
+      "images": "https://1.bp.blogspot.com/-E8ljIG28hIM/YGcibkE0sGI/AAAAAAAAABM/SDtPztKmGWEWkVMsYckTwebKG0ItJ3I9QCLcBGAsYHQ/s538/klj.png"
+     },
+    {
+      "id": "10",
+      "tittle": "Zombie steve lost his arm",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(10).html?token=ARV7RQ6CWPD446XQVN3HM53AM4SF6",
+      "link_file": "https://www.minecraftskins.com/skin/download/17328115?title=Zombie+steve+lost+his+arm",
+      "images": "https://1.bp.blogspot.com/-k4TzZws1pCg/YGcjid1ijtI/AAAAAAAAABU/fzibAxdq5qAiqaUeMkcIkOSCYXvaMNJ4wCLcBGAsYHQ/s537/%2527l%253B%2527l%2527.png"
+     },
+	 {
+      "id": "11",
+      "tittle": "Redstone Zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(11).html?token=ARV7RQ64CPH7OBMOANCKY5DAM4TCW",
+      "link_file": "https://www.minecraftskins.com/skin/download/17327742?title=Redstone+Zombie",
+      "images": "https://1.bp.blogspot.com/-hxnNgjcgToU/YGcknnnSXiI/AAAAAAAAABc/wAvB0J5TJ_scPTUdGLAT1sS24Lb6aN9fACLcBGAsYHQ/s538/vxvx.png"
+     },
+    {
+      "id": "12",
+      "tittle": "The Most Confusing Steve Ever! (6 Faces!)",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(12).html?token=ARV7RQ3MCCRKIT6GAKJ4JTDAM4VTI",
+      "link_file": "https://www.minecraftskins.com/skin/download/17326589?title=The+Most+Confusing+Steve+Ever%21+%286+Faces%21%29",
+      "images": "https://1.bp.blogspot.com/-t-SpJOnOWYo/YGcqZ4o3Y6I/AAAAAAAAABk/noUnL0YV4_c-cEJbpCbwI1POaTcNNFe8QCLcBGAsYHQ/s539/vcv.png"
+     },
+	 {
+      "id": "13",
+      "tittle": "cute zombie boy <3",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(13).html?token=ARV7RQ4IWCHUVDPHTHV5HRTAM4YF2",
+      "link_file": "https://www.minecraftskins.com/skin/download/17326061?title=cute+zombie+boy+%3C3",
+      "images": "https://1.bp.blogspot.com/-gnWu2y3zrHY/YGcwXYJdChI/AAAAAAAAABs/jCihwNiXybI_9JRT61fCNio7BJiDRUjUgCLcBGAsYHQ/s539/%255B%255B.png"
+     },
+    {
+      "id": "14",
+      "tittle": "Zombie Girl",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(14).html?token=ARV7RQYYWGQCGJFOPKQZHTDANHA3S",
+      "link_file": "https://minecraft.novaskin.me/skin/3832793026/download",
+      "images": "https://1.bp.blogspot.com/-Ef75aQZmi3w/YGm8wNapzMI/AAAAAAAAAB0/CCLTgC_-9-gmlDl4vjdqb4YFGx9anhqhgCLcBGAsYHQ/s610/thj.png"
+     },
+	 {
+      "id": "15",
+      "tittle": "Teen Zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(15).html?token=ARV7RQ2MSVB3JVJKQEB7N2LANHBSU",
+      "link_file": "https://minecraft.novaskin.me/skin/181103047/download",
+      "images": "https://lh3.googleusercontent.com/nFyUQ-VVAOYbk5XFB57qLZtung6TyQBzm0uq2LrtwCHytknVXM4NOf-7f3WTXsjoEmOg8x3hy4jV8f4TU7AeVA"
+     },
+    {
+      "id": "16",
+      "tittle": "zombie ahogado",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/zombie%20(16).html?token=ARV7RQ55L5IXRBEGNEDUKMTANHB64",
+      "link_file": "https://minecraft.novaskin.me/skin/1829413112/download",
+      "images": "https://lh3.googleusercontent.com/uKxAO_qVFpc_YhGIQMY-jWsc6Us_WsgvJuBp2Zn2ZEAfascC3ycn6FsiWZQeVIWYEt6R-WD8-Dkst78KZZRYEQ"
+     },
+	 {
+      "id": "17",
+      "tittle": "CARTOON CAT",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(93).html?token=ARV7RQZFIR25T3KLNMLRJGTANSNWE",
+      "link_file": "https://minecraft.novaskin.me/skin/3935983035/download",
+      "images": "https://lh3.googleusercontent.com/-4SG4kXE-Cm5Jejkre-yuGGLv33kJr-rk-AtttjA8SGo03EHtiaD_TgSaWMMtIDAMQtcNYDHp0HNCEO3PijfpA"
+     },
+    {
+      "id": "18",
+      "tittle": "zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(18).html?token=ARV7RQ5NHVVI57FBG2I3CVDANSDUU",
+      "link_file": "https://minecraft.novaskin.me/skin/3033463044/download",
+      "images": "https://lh3.googleusercontent.com/rzxaa_0V0zCpRGnael_tafLbLVYzlwJ7iuNIK3PhVGQmOmJsolWaQ-NKkfHGq8_rulzHQOrzoZXar3hzP8xPCyk"
+     },
+	 {
+      "id": "19",
+      "tittle": "SCP-173",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(19).html?token=ARV7RQ4RADGGMIHRWY3HA43ANSDUY",
+      "link_file": "https://minecraft.novaskin.me/skin/3171273030/download",
+      "images": "https://lh3.googleusercontent.com/TerCcDzuNx5pQIa8d_wwLRPDmI7TgIA_3TwFHC35SOCf95KpMi2PPgu9Egjj0Ki8g7HEDs-N34M_qnY5AB2gYQ"
+     },
+    {
+      "id": "20",
+      "tittle": "slendytubbies 3 texture pack",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(20).html?token=ARV7RQ5PJ2BL45UXSPYWBS3ANSDU4",
+      "link_file": "https://minecraft.novaskin.me/skin/1977373158/download",
+      "images": "https://lh3.googleusercontent.com/2FTuxeDUax-2goOFylM7gQOrthf7eODBSuf3nq92dNmzXwxVEclV3hNMkw9moI8SsYp2b84iGFUJRjzonZm6jw"
+     },
+	 {
+      "id": "21",
+      "tittle": "herobrine mob",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(21).html?token=ARV7RQ7F43TDYIDQCEZLF2LANSDZY",
+      "link_file": "https://minecraft.novaskin.me/skin/4310233141/download",
+      "images": "https://lh3.googleusercontent.com/Gy92eDHXWg9RA5OIFlURHNZcSi7ACmXxnWhdJwMrTwzYXG4wFSoLrkib-wTryjZD09Qp5QRAm0bmu0jd45nw"
+     },
+    {
+      "id": "22",
+      "tittle": "baldi",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(22).html?token=ARV7RQ7UV5ZJUXZT7MUAJJDANSD2E",
+      "link_file": "https://minecraft.novaskin.me/skin/1656593760/download",
+      "images": "https://lh3.googleusercontent.com/4tfTlsKunKb7xzxvGI0o0wCt92bmgXLamfbPUg2CrGQvJe6Jen7HTxEmQ7D0tzcDsjQp8T7LF8c3lQXTslRHjQ"
+     },
+	 {
+      "id": "23",
+      "tittle": "Piggy",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(93).html?token=ARV7RQZFIR25T3KLNMLRJGTANSNWE",
+      "link_file": "https://minecraft.novaskin.me/skin/3795763241/download",
+      "images": "https://lh3.googleusercontent.com/mylqqzybnebduhbK8mSI-FfbsQJPhHAzr1lxdr3OupZRdnpGUZolZ2o_g_1EwNPhHwmzvVdpqP9DnuvzqL5A3C8"
+     },
+    {
+      "id": "24",
+      "tittle": "Granny",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(23).html?token=ARV7RQ7ZLYZRSCB2EGX5QHLANSD2K",
+      "link_file": "https://minecraft.novaskin.me/skin/1579163164/download",
+      "images": "https://lh3.googleusercontent.com/B84lQMCDyx8ahguuYbLcK22TOB0yZR-K1WkeDjozDrCU3RfWHb-jgBzfMJ4Y5iOhHYeb9dOF8gjoId9VKAGJkQ"
+     },
+	 {
+      "id": "25",
+      "tittle": "zombie 3D",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(25).html?token=ARV7RQZGD3SCNQIDDP5M5R3ANSD2S",
+      "link_file": "https://minecraft.novaskin.me/skin/850623084/download",
+      "images": "https://lh3.googleusercontent.com/lNpqBd74jaB3ozcsqmxopSHejG-O13aXvCR-jvQP0_1WaDgfuvhnVdA2Nh7XAeH-y0jgN59iS2COv5A7--fJ"
+     },
+    {
+      "id": "26",
+      "tittle": "PrestonPlayz",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(26).html?token=ARV7RQ47URH7SNHPBFIMIXLANSD2U",
+      "link_file": "https://minecraft.novaskin.me/skin/2874223069/download",
+      "images": "https://lh3.googleusercontent.com/Muzno0vuNHWmVbcVDIJwLZ58jn0LrEDOzw42ja3fJxrWrhWKq4jUzRBkDFeLpipH2eyZ21cW7e_qDyNcL-j-XQ"
+     },
+	 {
+      "id": "27",
+      "tittle": "zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(27).html?token=ARV7RQ4RX2SRX2XPSRVKKGTANSL3G",
+      "link_file": "https://minecraft.novaskin.me/skin/1855653141/download",
+      "images": "https://lh3.googleusercontent.com/8eVKyC7O7BbJCsIbXJ8FuXtbybdD5TQ_Pd7NoMKRHVUne55OoQL3A-IBdc41kIBlc-DUkNZn3D3U15FFFgBLqQ"
+     },
+    {
+      "id": "28",
+      "tittle": "Zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(28).html?token=ARV7RQ2HXVGVFXYPDIIS24DANSL36",
+      "link_file": "https://minecraft.novaskin.me/skin/1728243067/download",
+      "images": "https://lh3.googleusercontent.com/ZrUW_3XwnQ8fCvPAz8Yh_EfYyKOUbwHb6oZW8EvTCCxRcHJeLDSv5gWrsLUIgta-6eRH6WMJabcBQcs8G0ke5Q"
+     },
+	 {
+      "id": "29",
+      "tittle": "Noob Thug By Grifinne",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(29).html?token=ARV7RQ5RQ6NX7SUKI3XPD4DANSL4S",
+      "link_file": "https://minecraft.novaskin.me/skin/1508363027/download",
+      "images": "https://lh3.googleusercontent.com/3oGfVBPP03Oa2LnZHD60vqkUTdNW5i1FSecGf0d4FSKaqzNgUXYocgH9gmTJynGrxOrQnY2ZVGyJkkEmDPa_Gg"
+     },
+    {
+      "id": "30",
+      "tittle": "Jason",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(30).html?token=ARV7RQ3HZCZG4ETAGMTSDSDANSL54",
+      "link_file": "https://minecraft.novaskin.me/skin/1784283046/download",
+      "images": "https://lh3.googleusercontent.com/X5DCMFCu3ziF47iPXOj-2DQA2qLtc_tsqTr2tp_GHiv6uOl9FDU9tMpSfgwpdAMovL8Im_9MFnVVsy7QhLX9rQ"
+     },
+    {
+      "id": "32",
+      "tittle": "Jason Voorhees",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(33).html?token=ARV7RQ4UEVDYNDF3WMVZA7LANSMB2",
+      "link_file": "https://minecraft.novaskin.me/skin/1870253405/download",
+      "images": "https://lh3.googleusercontent.com/-DktMz4W3JrKPogRRVSa1WOXgW3CRE-WVHtvTRluMGtaJoN9rPcza-2t2_3jfQnePOMmy4eOPgDZiwmy6VAm"
+     },
+	 {
+      "id": "33",
+      "tittle": "zombie pigman girl",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(34).html?token=ARV7RQ76B42H677CAP556SDANSMCK",
+      "link_file": "https://minecraft.novaskin.me/skin/3548363128/download",
+      "images": "https://lh3.googleusercontent.com/e1ebAkxYydE1jxaqBBVoc1smSEAhAeiBq2gL15z_vUWbNL5Nq3eWEfOVRD9NBcBk_ysOkbvyK3i3JxF9lJkB"
+     },
+    {
+      "id": "34",
+      "tittle": "sonic exe v1",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(35).html?token=ARV7RQYBG6CJXG5RZXZ2MG3ANSMDG",
+      "link_file": "https://minecraft.novaskin.me/skin/1528553195/download",
+      "images": "https://lh3.googleusercontent.com/B2PAlShm7HnLsnWA1Iok6eq1PxoCYz5AEklcHyiwElHnF3DhyQ_6_OpWRFZcYTw2p44n_-HTwKR7pZgKx6SloQ"
+     },
+	 {
+      "id": "35",
+      "tittle": "Cool noob",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(36).html?token=ARV7RQ4GQSGU4YOW5VETRUDANSMEC",
+      "link_file": "https://minecraft.novaskin.me/skin/6128309774843904/download",
+      "images": "https://lh3.googleusercontent.com/8neRj2px43wKSdd5UmsIjBVlGCfktJh47TagOBfUnuBo15X5vYI_10jVdALD3lcrrlIMwlpmbVjKMEzcznTe"
+     },
+    {
+      "id": "36",
+      "tittle": "Fancy Zombie Suit",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(37).html?token=ARV7RQY7P7AJX4JM7EPOJSDANSMEU",
+      "link_file": "https://minecraft.novaskin.me/skin/3242073059/download",
+      "images": "https://lh3.googleusercontent.com/0cqEHw6pF9FCDKKoZaCzqHA6GexHsUDq5KEuios_4RPzHKU9PJCdaFYxTdP-PnmaXRAUk-cjlT-MCALzG8tRdg"
+     },
+	 {
+      "id": "37",
+      "tittle": "Zombie Story Mode S2 BAD",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(38).html?token=ARV7RQ7YTELHD2HSSPC7CHTANSMFE",
+      "link_file": "https://minecraft.novaskin.me/skin/1491273048/download",
+      "images": "https://lh3.googleusercontent.com/nKaIF_HDIDRj09KUG7nLDoW-lTNryBF1mce4ZS79icRaEw3bxN-ePxK5paCUIicxpcM2gD3Sm-_t3ulPjEGZ"
+     },
+    {
+      "id": "38",
+      "tittle": "Venom",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(39).html?token=ARV7RQZGXLDMBPNPTE5NJ5DANSMGS",
+      "link_file": "https://minecraft.novaskin.me/skin/1273353132/download",
+      "images": "https://lh3.googleusercontent.com/uwHkiNOc5JDtLVlK94oDcw_zg3FToK3FqFYxKAJvuaVauzQVQrbybNMvkyahhBXnI1ZGshHmDy9Xy6zwMjgtYg"
+     },
+	 {
+      "id": "39",
+      "tittle": "nightmare freddy",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(40).html?token=ARV7RQ5X5KFY5OPEUGDW4IDANSMF6",
+      "link_file": "https://minecraft.novaskin.me/skin/3610623059/download",
+      "images": "https://lh3.googleusercontent.com/ibAi_CR7icxtMNAT75SaS42GF1VIVuYfE9XMaeqFAu-va8audqjbXF9EV_1gL9MOp2xaoYqlimMY_fD7ZizmvA"
+     },
+    {
+      "id": "40",
+      "tittle": "SCP texture",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(41).html?token=ARV7RQ6OKXX2YT2Y4F4IR4LANSMHK",
+      "link_file": "https://minecraft.novaskin.me/skin/1438773113/download",
+      "images": "https://lh3.googleusercontent.com/jYE8L31N9iZk8h7Q1uszbc-C-Pi4vpcmnth4IVg1ETdkmxoYkXTbk2IOXyw5UhbsVSz9oxlkBJShQTLhHSEB"
+     },
+	 {
+      "id": "41",
+      "tittle": "zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(42).html?token=ARV7RQ5N2DVN3RTGPD4EU4TANSMIS",
+      "link_file": "https://minecraft.novaskin.me/skin/3427043046/download",
+      "images": "https://lh3.googleusercontent.com/1Qao7j6vsokV-jrszCSpjw4FmWXS9y1Qtz0v6tP7MYNA_M3vaZeVFkknXqv6tscV5WE5jM3z_nTdfD2to_3p-A"
+     },
+    {
+      "id": "42",
+      "tittle": "halloween",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(43).html?token=ARV7RQZQMMZDN53NEI25ANLANSMR6",
+      "link_file": "https://minecraft.novaskin.me/skin/1271393271/download",
+      "images": "https://lh3.googleusercontent.com/ZVpHTGTOTZYvCn_LsOe1mxoAArDnau-C1PLrUC0JUHH7UAmZ1fhjB1SC7AnBLX0GpPRbga4kCBboPinWUUzD7EM"
+     },
+	 {
+      "id": "43",
+      "tittle": "Zombie Steve",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(44).html?token=ARV7RQ32GYUNNXJJBTRANYLANSMSU",
+      "link_file": "https://minecraft.novaskin.me/skin/4702597958074368/download",
+      "images": "https://lh3.googleusercontent.com/UpGSDNXJ7ElJ8dWh2aa4WFybscEnwYHX5ElM5FtZbWvouSCPAkYbSbdeYz4yDNAl-sA4cHTrxz6Ix8xCumN9Ow"
+     },
+    {
+      "id": "44",
+      "tittle": "Momo",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(45).html?token=ARV7RQY4UV2GY2XHO6LTWXTANSMTG",
+      "link_file": "https://minecraft.novaskin.me/skin/1548503241/download",
+      "images": "https://lh3.googleusercontent.com/BV6TwkM_z4DYGM-w0Zw1tSwNoLo2Oa9Lw9HrV6SFFu0w6cdhErIIHdKvDQgQA1GqYz8VlYBlHmzcFxmwJSf_"
+     },
+	 {
+      "id": "45",
+      "tittle": "Pennywise",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(47).html?token=ARV7RQ2R4QAJZJMLG7QUYKTANSMWI",
+      "link_file": "https://minecraft.novaskin.me/skin/1816553165/download",
+      "images": "https://lh3.googleusercontent.com/8rPIwQxom7fX9adC8CcPDa9zgLShVV-Y2muZRNkacwwtMKmnidh12PTIkltDq73yEdNyH01OuwOSf-BoYks9tOc"
+     },
+	 {
+      "id": "47",
+      "tittle": "Xbox Herobrine (Skin pack 1)",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(49).html?token=ARV7RQ64REYJFEVONB3FQJ3ANSM22",
+      "link_file": "https://minecraft.novaskin.me/skin/6507104099631104/download",
+      "images": "https://lh3.googleusercontent.com/Q8uhOID--um7TTuoVmHIF_yoPeKAGotJ4-s5VaF3SwbDHBhdHw_icJ79b23d_YHDSiMiYn-d6kgfsbEcvGR-_w"
+     },
+    {
+      "id": "48",
+      "tittle": "Foxy",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(50).html?token=ARV7RQ2VICO5C4XTSSMBNL3ANSM3Q",
+      "link_file": "https://minecraft.novaskin.me/skin/4846082134638592/download",
+      "images": "https://lh3.googleusercontent.com/T7zaEFO8SA8keC7H6FW8VPwceaHJJLwnwMdeLqR66hVp8xk3fSNsVB1Nw3PI0GS0SSsiRNXUTyym9lRCk-FSaQ"
+     },
+	 {
+      "id": "49",
+      "tittle": "ICE SUPER COOL ZOMBIE",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(51).html?token=ARV7RQ2WQRSLPJECTVBTAFTANSM36",
+      "link_file": "https://minecraft.novaskin.me/skin/3928503193/download",
+      "images": "https://lh3.googleusercontent.com/6P1_YgFH-25OkostwZGakuz7QbhSFWSpfdssmiQ9wtjkx5MNO8CZ_-LAXxdpseOXIN72oC4TYIEOH8u1gGWeCu8"
+     },
+    {
+      "id": "50",
+      "tittle": "Stalker Zombie",
+      "link_html": "",
+      "link_file": "https://minecraft.novaskin.me/skin/3591653239/download",
+      "images": "https://lh3.googleusercontent.com/jvnbyM8bjvSX8QSyavJIftMIF-Bl3oAVvxyAzrWRRz4knQKfsAz47rjTaaqKCh2QZleNnkdRKBJU7VNr_ruc"
+     },
+	 {
+      "id": "51",
+      "tittle": "ender zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(52).html?token=ARV7RQ6TB4RMF26GTVIS73TANSM54",
+      "link_file": "https://minecraft.novaskin.me/skin/3562863133/download",
+      "images": "https://lh3.googleusercontent.com/U8nJdb0_OqYfl_WNTJtaRhinKeRX3_-g6arDIt4n-ctE8LXzGk3kqg4rQT_17tO3dj0-pSaBUxqb8jrA9HmUYQ"
+     },
+    {
+      "id": "52",
+      "tittle": "Zombie Bert",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(53).html?token=ARV7RQZLMTHVNGFOFWHGZTDANSM7A",
+      "link_file": "https://minecraft.novaskin.me/skin/4541573116/download",
+      "images": "https://lh3.googleusercontent.com/R3DQeY9MvJubKL0yFvi8brCyO8ysVyZ1j69NmlpSBnESsi85j572fa1bhJ8ZAnHpRJQMt9qDjjjyiXBC5pjGhYs"
+     },
+	 {
+      "id": "53",
+      "tittle": "Pak mod zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(54).html?token=ARV7RQ6L7FQKRM23O3WF46LANSM7Q",
+      "link_file": "https://minecraft.novaskin.me/skin/1969613304/download",
+      "images": "https://lh3.googleusercontent.com/Ns8J1UE1gXDC0dmt_1OwUxxFlruS0KC7iEC3Ja5znzlMGz-3lcBSl7ptcc9ohM9dxg1v_ubnvPkjZLL_q9iFnCs"
+     },
+    {
+      "id": "56",
+      "tittle": "scary zombie girl",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(55).html?token=ARV7RQ7NGQDBDYJWEJF2KTDANSNAE",
+      "link_file": "https://minecraft.novaskin.me/skin/1547423739/download",
+      "images": "https://lh3.googleusercontent.com/uddvNohLWeYXSmtPpP11DDghWgwFe3i517INhBRnoh8Qb9OsNEcwyhSeZreKdZ5vnE9c81gYEhaXTxIopDSZwA"
+     },
+	 {
+      "id": "57",
+      "tittle": "Zombie Trap FF",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(56).html?token=ARV7RQ5BERFFJUTPDLVHRITANSNB6",
+      "link_file": "https://minecraft.novaskin.me/skin/3961053154/download",
+      "images": "https://lh3.googleusercontent.com/Gu9dJrMFfXeq7NjIry3CkB97VbTk-f_av3OqbCuu68acW9HcTRqcHnnwZ1UhrR5embL3EWnCgXRf7wH6AA0PSg"
+     },
+    {
+      "id": "58",
+      "tittle": "Zombie Minecraft pack",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(57).html?token=ARV7RQZPRG5YCKCBWZO7LGDANSNCQ",
+      "link_file": "https://minecraft.novaskin.me/skin/1973634257/download",
+      "images": "https://lh3.googleusercontent.com/--XKPE-Ne_9dT0AJhowWuNRYceZEm8FZfUA0QcXTgTPX7XEYeomHJHwrLI_zyIywNh3r1BjwkchR5m5VOsPxiXQ"
+     },
+	 {
+      "id": "59",
+      "tittle": "zombie girl cawii",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(58).html?token=ARV7RQ7AA3NMRCKGOEJX5MLANSNDC",
+      "link_file": "https://minecraft.novaskin.me/skin/4699673056/download",
+      "images": "https://lh3.googleusercontent.com/0vfjlUZ-pL1PgqHbdZa-qQHbrx8pBYCANI4wX2LlhmTOKuV5iDh0PqH0sPPU5BgnjrOQ8ERhTqYmidhIynqsX9U"
+     },
+    {
+      "id": "60",
+      "tittle": "Zombie Girl Skeleton"
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(59).html?token=ARV7RQZL2JCXLUYJSOQ7LGTANSNDU",
+      "link_file": "https://minecraft.novaskin.me/skin/3954603028/download",
+      "images": "https://lh3.googleusercontent.com/hwo1KKLHEvhzChBMLMtCgUsZRPLECFjQDEbIsK58VW9ZCZfV8M-thEhWT45akMYajHQkhy5JpDJyi62IueTGTg"
+     },
+	 {
+      "id": "61",
+      "tittle": "zombie pigman de terno",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(60).html?token=ARV7RQ65PUBYB6OPEIQWU7TANSNEQ",
+      "link_file": "https://minecraft.novaskin.me/skin/4074063288/download",
+      "images": "https://lh3.googleusercontent.com/VIFw95psI6cqvYbAah1cVkKfEgR2XgE9Ox2JbxU0S4LVYnSs62FEWW8APa9oQ52hG8xy6pjML7P6td1HBV0R"
+     },
+    {
+      "id": "62",
+      "tittle": "killer zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(61).html?token=ARV7RQ5JZCHXY5XUE72UWZ3ANSNFK",
+      "link_file": "https://minecraft.novaskin.me/skin/2850923164/download",
+      "images": "https://lh3.googleusercontent.com/nb7TLdArKQZp74aRwIUF6uUuCq-RhTwaScNOmTqlcA2f_V9fYy1HvLOD-z-oR7UdejCZQh5J7qlqFqTF9h9F"
+     },
+    {
+      "id": "63",
+      "tittle": "Diamond Zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(62).html?token=ARV7RQ4V6OF2YGDOE6WPLWDANSNF4",
+      "link_file": "https://minecraft.novaskin.me/skin/1750733708/download",
+      "images": "https://lh3.googleusercontent.com/AJJSgpQiSC3E1GYJFBH_53UOO9LAFYP4PuTQpmDqN5I7T20puC30KUsUhnWo_l1bC2UXgDD2ft6AMdmKwNxRcw"
+     },
+	 {
+      "id": "64",
+      "tittle": "zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(63).html?token=ARV7RQ4MJFR5EIEMPLQ6BX3ANSNP6",
+      "link_file": "https://minecraft.novaskin.me/skin/3521503392/download",
+      "images": "https://lh3.googleusercontent.com/qdS05PLE_oec5ig-bEkxm3lvqLrjEbzd-2E-6mmiPjce_BD4697qf_QH2A-whexrF0TXsnUADcsIFmOOd8hx6Q"
+     },
+    {
+      "id": "65",
+      "tittle": "zombie herobrine",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(64).html?token=ARV7RQ2KXBE2LPQMUAU4OS3ANSNPM",
+      "link_file": "https://minecraft.novaskin.me/skin/3383993056/download",
+      "images": "https://lh3.googleusercontent.com/cHd6tfSV4ZemZ00QPBhicA1RI6J9BFpyhITYyFSuXUaq77C-auUC-8ys_NTV6SQl2JxeMwxpKZwgkzXQz1d7Gg"
+     },
+	 {
+      "id": "66",
+      "tittle": "Green Zombie Apocalypse survivor",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(65).html?token=ARV7RQ4PC3F27ECEDEV3KITANSNKY",
+      "link_file": "https://minecraft.novaskin.me/skin/4538743140/download",
+      "images": "https://lh3.googleusercontent.com/5z-scvbjF_3H0H_L-S4GHYdQ81m_r7MnMspdfROp0gwcmeuthLfYXsvN85RoH6TV02hI6OjA74noA9MraS_zGg"
+     },
+    {
+      "id": "67",
+      "tittle": "Zombie swat",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(66).html?token=ARV7RQZRI2K4PEZPIRVN5K3ANSNJY",
+      "link_file": "https://minecraft.novaskin.me/skin/3549003238/download",
+      "images": "https://lh3.googleusercontent.com/Sxv7xAXk5CjxbRvMB8VnNJMEGP7uzj14SsGozdfCRFk5muB3FRg7d4j4ggCgb6c0BvzFpAUfUqkTUDZCGcT9HIo"
+     },
+	 {
+      "id": "68",
+      "tittle": "Zombie Villager (Story Mode)",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(67).html?token=ARV7RQYQTFL3REGCDVHW45TANSOZG",
+      "link_file": "https://minecraft.novaskin.me/skin/1718154051/download",
+      "images": "https://lh3.googleusercontent.com/PCtBnVyEeccg3-g8qXYZ5WfVwaFeVJM-M3R3QALo37s93bm2ISCX3U20kHlY1wwjMSiFO3bwB7VF-xg647Nizg"
+     },
+    {
+      "id": "69",
+      "tittle": "pvz zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(68).html?token=ARV7RQ3HN6HBJQHRC6AZSU3ANSOZK",
+      "link_file": "https://minecraft.novaskin.me/skin/3528083023/download",
+      "images": "https://lh3.googleusercontent.com/cNPry4q4S5gRqqdyore85M4ru-Yi5NCQ7k1l1nfXKFBi0jCf3l0bzeBnVrftcQHga2zpKSGpJ7UMAWtJUR6aw1Y"
+     },
+	 {
+      "id": "70",
+      "tittle": "Bob the Zombie Villager (Story Mode)",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(69).html?token=ARV7RQZJLNETMXHFQN55TXDANSOZO",
+      "link_file": "https://minecraft.novaskin.me/skin/1731953043/download",
+      "images": "https://lh3.googleusercontent.com/S_ra81b_tHhToyWeML_dFxYb5y2Q0YyOSq2F8a6t5YDFafN9Z0U9QXJlBz3_BC2xALWFlRi2AdjHLYXUZV6yew"
+     },
+    {
+      "id": "71",
+      "tittle": "Zombie Witch (Story Mode)",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(70).html?token=ARV7RQ2XUMXLO4CDHRCZ4DTANSOZQ",
+      "link_file": "https://minecraft.novaskin.me/skin/2002463113/download",
+      "images": "https://lh3.googleusercontent.com/ThvrAXi1i9DUEeCxn0xO-W0jzE2QVk1G6qauGZFiPbg463wpMThZIzKm6msmciaLN4zGZYTUF63T7fgvl51HPA"
+     },
+	 {
+      "id": "72",
+      "tittle": "zombie hulk mutant",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(71).html?token=ARV7RQ623MDPNIE6TWUOVPTANSOZS",
+      "link_file": "https://minecraft.novaskin.me/skin/6592724572569600/download",
+      "images": "https://lh3.googleusercontent.com/RGuzrVLTdCYuXp7pbpxBB1Zl2nboQ7HUMF84uMBfxYPbFZzVT_NW7VUp8U00a2NBpQu2W11qgsaUtN-4nuaEUQ"
+     },
+    {
+      "id": "73",
+      "tittle": "zombie ben salem kohmn",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(72).html?token=ARV7RQ6CJZOZFJ7VNUKG7D3ANSOEY",
+      "link_file": "https://minecraft.novaskin.me/skin/1405973047/download",
+      "images": "https://lh3.googleusercontent.com/gvyf8EnZICAebu0Okvj0QK2eWRgWheH63X93UULv_YkuWt1wafhaunBCFnAdjTfQDqXkSEKHVUy_l7EDSPkrhr4"
+     },
+	 {
+      "id": "74",
+      "tittle": "zombie girl killer",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(73).html?token=ARV7RQ36AJRRDHXAJ36XNI3ANSOU2",
+      "link_file": "https://minecraft.novaskin.me/skin/5243744188628992/download",
+      "images": "https://lh3.googleusercontent.com/YrqN4fiB5DLlUSRbi8rXT6o7Bg-lkDc4_EWy4H0XSv3ORDizY1xg_-9fx7sIkECsCqQ5Jg0_4qGkz_siPhm5rGs"
+     },
+    {
+      "id": "75",
+      "tittle": "wolf zombie girl",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(74).html?token=ARV7RQ7OMYRLOQFMFCUP3SDANSOGW",
+      "link_file": "https://minecraft.novaskin.me/skin/1412163735/download",
+      "images": "https://lh3.googleusercontent.com/TwLn-QBwaVWHGgNtqR_lVbNWBxhDj3Z48XCXcFdEQB2kS9bzrRzqJDdfav3S2GpoTaMC2DnChixdC4bREImX0Q"
+     },
+	 {
+      "id": "76",
+      "tittle": "Boruto zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(75).html?token=ARV7RQ6R7GBRAD6GLZHYOELANSOHA",
+      "link_file": "https://minecraft.novaskin.me/skin/3515403552/download",
+      "images": "https://lh3.googleusercontent.com/dX8OSNNce3gRRRbkrqz5svLbOuQUdRr265bIj2DyjaDpQ9GpZlr3dmStllOMxzVEjJ_FKSFc_tr_hKl2vZ7tjA"
+     },
+    {
+      "id": "77",
+      "tittle": "zombie hunter",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(76).html?token=ARV7RQYGBBMDEPYTNUYZ7FDANSOIO",
+      "link_file": "https://minecraft.novaskin.me/skin/848533219/download",
+      "images": "https://lh3.googleusercontent.com/6yjvg3VO6zBjT29qJT_4uXsHJcg8SCbUIBPJFkLtzyg8ovsNKoTOmjmpgTkgt2f9qXagF8p7T7gwLhhCmkDnFQ"
+     },
+	 {
+      "id": "78",
+      "tittle": "Zombie Creeper",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(77).html?token=ARV7RQ3E4HQ3OZHEBJWHJSLANSOI4",
+      "link_file": "https://minecraft.novaskin.me/skin/20128052/download",
+      "images": "https://lh3.googleusercontent.com/8ODJNaHtgnkM28E0sQnl_gjK9FQzkUjiaasocDdiRiF4GXDafe-vVCrxpi6Dss0Pryqdbeh7Ax2Oh7Z7jjMaqA"
+     },
+    {
+      "id": "79",
+      "tittle": "Zombie Boy",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(78).html?token=ARV7RQ5JFMON4NQWWIZBSFTANSOKI",
+      "link_file": "https://minecraft.novaskin.me/skin/3084623119/download",
+      "images": "https://lh3.googleusercontent.com/-8-btSQ_e8q8GTaRs7Y_hQH19lIhdOeu6ZGiB4abTUgpdXjRNopFuJMPz3_x1ZfOlsoVHUCRRewXathn61T3Fq0"
+     },
+	 {
+      "id": "80",
+      "tittle": "Freddy Fazbear Zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(79).html?token=ARV7RQ3VT644NHPU7CE7CJLANSOJU",
+      "link_file": "https://minecraft.novaskin.me/skin/4625758946328576/download",
+      "images": "https://lh3.googleusercontent.com/d_hSJ9F_5t_apS7bu1tV7w3IDHU0gB92k_89Eu4fzU4u9PXzX1MDu6Hm9x1YEa4arfkSu-K6dfJZb4n0vMBjlw0"
+     },
+    {
+      "id": "81",
+      "tittle": "prison zombie steve",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(80).html?token=ARV7RQ7JA2BCHNFJGXYVWHDANSOKW",
+      "link_file": "https://minecraft.novaskin.me/skin/1792933074/download",
+      "images": "https://lh3.googleusercontent.com/aAi2tmZE0KYQ4CQyWIpT3jO1KCsOGl8rWhPb5zCds_tC78nRjtOIJ5ZDHgpI2I-ClInGgGKLl5apTFVkWJM19w"
+     },
+	 {
+      "id": "82",
+      "tittle": "noob zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(81).html?token=ARV7RQ2N34A7S4QSKW5BQI3ANSOLK",
+      "link_file": "https://minecraft.novaskin.me/skin/1438333326/download",
+      "images": "https://lh3.googleusercontent.com/ZkY6Z0fOmhhVzz7HMKo7xvyQc34rt7eTXhYDu60cqLSXgsN3NA4b59R8enHGdfhXEcWtVEch9QNuoMuhjh1r6W0"
+     },
+    {
+      "id": "83",
+      "tittle": "Roblox Guest zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(82).html?token=ARV7RQ5IXKC4RILU4DJ4TYDANSOL4",
+      "link_file": "https://minecraft.novaskin.me/skin/1020973072/download",
+      "images": "https://lh3.googleusercontent.com/sE2moD4KjDCtvZzfjWi_AH4vQyGt9HuoMx33rowdZTw9tIoLlWdwnuCLdRNWjhcU6FKk9vf-eeBHwQV4yCyZ_w"
+     },
+	 {
+      "id": "84",
+      "tittle": "iron zombie golen",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(83).html?token=ARV7RQ2CH74PZ5ZLPCCA3OTANSOMO",
+      "link_file": "https://minecraft.novaskin.me/skin/5664487264747520/download",
+      "images": "https://lh3.googleusercontent.com/AP-dT1gi8tovznZF7GkmOvOkJtsaAd_6GSf4psn-m-ol1-Axu3HVRLsFCgcf_SUFvtWaYOXIlH0OnXMnNqIM3w"
+     },
+    {
+      "id": "85",
+      "tittle": "zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(84).html?token=ARV7RQ7FW7DX2QX5GTH2HDDANSONA",
+      "link_file": "https://minecraft.novaskin.me/skin/6178750485233664/download",
+      "images": "https://lh3.googleusercontent.com/BPBuEYMLDb3BfRsrYPyg63SqYE5ZvXZXS6oYDKYwXP0K0uUNnfp5s8FuQozz4SHwnchZiiE0DaJXPm91RbuaWw"
+     },
+	 {
+      "id": "86",
+      "tittle": "Zombie Marcos",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(85).html?token=ARV7RQ6ABUYTZYMFFVYM5ADANSONO",
+      "link_file": "https://minecraft.novaskin.me/skin/4800866700/download",
+      "images": "https://lh3.googleusercontent.com/C7gDdGYuNzrVq_y_uiLkst3wABM3tggGqwbmhIyVDn1E3Cx99YTseG1sxJ0sAd-o-e6MB-oLkpV05MQ1Yd0YMxofbKqJfXkW3Q"
+     },
+    {
+      "id": "87",
+      "tittle": "zombie matty other skin",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(86).html?token=ARV7RQYCNEGMNJV7AMDHREDANSOOA",
+      "link_file": "https://minecraft.novaskin.me/skin/4101933318/download",
+      "images": "https://lh3.googleusercontent.com/ra2wBGejjFOpqzIQ2AzkQdmHS_bU8GsbXFSKhl_l6Tfgv95AYUxy1Jr7Zlsi14vP6N_j-9VWjQqopH7BAMEDTw"
+     },
+	 {
+      "id": "88",
+      "tittle": "MY SKIN zombie COOL L L L",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(87).html?token=ARV7RQ6FTQ3JMOMHWP4DAV3ANSOO4",
+      "link_file": "https://minecraft.novaskin.me/skin/4886603819/download",
+      "images": "https://lh3.googleusercontent.com/ZbNVQ3vJXxSthmk1SBeS1gnoBJ1OEi-hZkaYJmRqMA-RLqWtruHXBYUru1OARLxeWLdIQtWvdBUO_XNHYNZyDjnaPJRtpHRRAEI"
+     },
+    {
+      "id": "89",
+      "tittle": "FNaC 3 Mini-Games Rat (Zombie Mob-Skin)",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(88).html?token=ARV7RQZDIPB3B5GRAROEABTANSOQU",
+      "link_file": "https://minecraft.novaskin.me/skin/4316903208/download",
+      "images": "https://lh3.googleusercontent.com/xQLtAkWmtW58P_FYiJ2YHcXN9b3W9Q1wUV3jL5V7r64pGe_vw0We-HgKFIQQr0eEFKu9-jggFLhAWkQlC9Q-"
+     },
+	 {
+      "id": "90",
+      "tittle": "zombie skin",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(89).html?token=ARV7RQ7CDUMFPKXD3GELXETANSORU",
+      "link_file": "https://minecraft.novaskin.me/skin/1703943040/download",
+      "images": "https://lh3.googleusercontent.com/5Gh0TRrb5fXBg11FO8FGe4tDyi1Qi4xpKalPu3qiP0fRjM5xHtDgzg1h21b_tfokDJxF_YK_4OpwdCCHvFa0HQ"
+     },
+    {
+      "id": "91",
+      "tittle": "Half Zombie Skin",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(90).html?token=ARV7RQ6WGIHRWETKGDBLSFLANSOSK",
+      "link_file": "https://minecraft.novaskin.me/skin/4810993708/download",
+      "images": "https://lh3.googleusercontent.com/OzVj5gaHfwj5RkpffosXuxQ16oWuiPoCnNXcNb1BefIVnIM5-DxxxFlmOppzWj5hcyZ8p9jN-hz7EQqHaVLCXtU8_zZMY6C-rQ"
+     },
+	 {
+      "id": "92",
+      "tittle": "el_bamsus's zombie rolply-skin",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(91).html?token=ARV7RQY7H3POQCYQOKPNLTTANSOS4",
+      "link_file": "https://minecraft.novaskin.me/skin/4905563038/download",
+      "images": "https://lh3.googleusercontent.com/gip70G4MZmmpvImONu4ECdC9ICcKAKvKKM3vo1B_F3oP8QqIsxRZEQdukAHqzaloUGiLnZJNpZ0HbJAh2nOl8whssFrMp_YNgA"
+     },
+    {
+      "id": "93",
+      "tittle": "skin as a zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(95).html?token=ARV7RQYGXWBKFOW7TBCKJSDANSOZC",
+      "link_file": "https://minecraft.novaskin.me/skin/4841014900/download",
+      "images": "https://lh3.googleusercontent.com/xvu9UT5zW65dyG2lQYbTCYtYpfrmCkWw0aOocFIK_q6gzkcdiiejHvpqsL9OKPWNZEXNn4AjuLzAq92HwtlqxBmb8OzDD5u_bqA"
+     },
+	 {
+      "id": "94",
+      "tittle": "zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(95).html?token=ARV7RQYGXWBKFOW7TBCKJSDANSOZC",
+      "link_file": "https://minecraft.novaskin.me/skin/4840997358/download",
+      "images": "https://lh3.googleusercontent.com/OsWj9B-jwBWtM5m_aSPeJ7-TDjPbVn-KVUbvpDACqq6c8e8wQojKxp_tT8gvXcgGf9fLRDawz-1Px-UfNsv94BrvcEVsv1UoSJm2"
+     },
+    {
+      "id": "95",
+      "tittle": "Neuer Skin zombie hat",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(94).html?token=ARV7RQ3L7DHAX6KHGXQIVCTANSNWU",
+      "link_file": "https://minecraft.novaskin.me/skin/4852977795/download",
+      "images": "https://lh3.googleusercontent.com/QTtFP3KjXAI5d0zhzvvpY1yelqRrjpjSRZ8QfZII-2kRZsTP0A4JSeXgxElKq6cXcM26PfBrHm5XjTxsdYhn1Gs4Q8UMHIqI31E"
+     },
+	 {
+      "id": "96",
+      "tittle": "zombie skin nr3",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(96).html?token=ARV7RQ4JVDY64GLR7SF64JTANSN56",
+      "link_file": "https://minecraft.novaskin.me/skin/4854403630/download",
+      "images": "https://lh3.googleusercontent.com/c-ADNmc0BJxCZP0UP-dEPGaTQgkG4D9DUD6tzc19kd1QriXMh22-gKFLfvVSer3vwt7z-1u7Ch6QXfGlwdmmK_nRGTnpJQZwPg"
+     },
+    {
+      "id": "97",
+      "tittle": "zombie skin editor",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(93).html?token=ARV7RQZFIR25T3KLNMLRJGTANSNWE",
+      "link_file": "https://minecraft.novaskin.me/skin/4871224017/download",
+      "images": "https://lh3.googleusercontent.com/UNfPbRr5nQS6EBCa39AIUIsbbnqTQ-llu8hO7jM_57eD_tQWuT2XG7q5013BXtYpuTCUISCnYLR4sn05J0bZeILAJbOZEJU9BcM"
+     },
+	 {
+      "id": "98",
+      "tittle": "emo girl but zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(97).html?token=ARV7RQ5TTRKW76TKQB7FAVLANSNYE",
+      "link_file": "https://minecraft.novaskin.me/skin/4821144772/download",
+      "images": "https://lh3.googleusercontent.com/Va5EhuaE3wW9vp_EH8tel9rkB1b_0-zkUMEoM-X1s5l8WwzmmHvdOP1hJhVoNsRABsGNm2x8cV5Iv73RN_LcQLVmzujcfYvjBA"
+     },
+    {
+      "id": "99",
+      "tittle": "zombie skin nr2",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(98).html?token=ARV7RQYKLCDB3PG2BKYHMF3ANSNZA",
+      "link_file": "https://minecraft.novaskin.me/skin/4869293703/download",
+      "images": "https://lh3.googleusercontent.com/5gQHKCwzEwfL1vemqCY--P5fax0loikw2-YR4sOXOpsfg5TcLPSzlVkCjSMBxjrlxO1xGkWeuBz84vEfzItr3wIDplvIO3Dkfoc"
+     },
+	 {
+      "id": "100",
+      "tittle": "skin zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(93).html?token=ARV7RQZFIR25T3KLNMLRJGTANSNWE",
+      "link_file": "https://minecraft.novaskin.me/skin/4813044064/download",
+      "images": "https://lh3.googleusercontent.com/Ko_tU5nyLqIRmFNbW5z7b6Q9THGJhsdmccfxfPEd6hK5ujaybXCocDvSqE-pPd8fvfFQYmWk4bcs2KQF1VpIoRtoBzuGXT8lii91"
+     },
+    {
+      "id": "101",
+      "tittle": "zombie skin nr1",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(93).html?token=ARV7RQZFIR25T3KLNMLRJGTANSNWE",
+      "link_file": "https://minecraft.novaskin.me/skin/4865383521/download",
+      "images": "https://lh3.googleusercontent.com/Rzijglxytw5lviLkK-2kU3fRiNF8NKPhjixXudk68Ne6hrclbbwrRyoF5wjPrYJpbj5bMwMqWp1tNeRW85o8J1ihcjYuJkczZE0K"
+     },
+	 {
+      "id": "102",
+      "tittle": "zombie-skin",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(93).html?token=ARV7RQZFIR25T3KLNMLRJGTANSNWE",
+      "link_file": "https://minecraft.novaskin.me/skin/4830753213/download",
+      "images": "https://lh3.googleusercontent.com/BE5WtYRbPq1QLpDNG62S61-tez4BauQhCq838SqgLkc9wjDAIYqgnRmN-6tKwqGiCFsQ0e1XnjxQf8i0_ixZMzxd65wU-unjyd0"
+     },
+    {
+      "id": "103",
+      "tittle": "skin apokalipsa zombie",
+      "link_html": "https://raw.githubusercontent.com/syafikz/minecraft/main/%20zombie%20(103).html?token=ARV7RQ7EQYWXKCFRZODFNM3ANSC7Y",
+      "link_file": "https://minecraft.novaskin.me/skin/4824323400/download",
+      "images": "https://lh3.googleusercontent.com/j6j-Dw_DYsKSG0TurFvmDVg6habkPk58CgHqywmZ2ajEq_xkTa3XQhlUvxQ8aQkFihuq-rmaPvkmu0VY7GOePcjcxq3uUfSEng"
+     }
+}
