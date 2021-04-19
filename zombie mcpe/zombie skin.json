@@ -22,17 +22,11 @@
     
      {
       "id": "1",
-      "tittle": "zombie",
-      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/zombie%20mcpe/warna.html",
-      "link_file": "https://namemc.com/texture/fc20a26a2fc189f5.png",
-      "images": "https://render.namemc.com/skin/3d/body.png?skin=2aab203fb68a7f92&model=slim&theta=20&phi=1&time=251&width=600&height=299"
+      "tittle": "Zombie",
+      "link_html": "",
+      "link_file": "",
+      "images": ""
      },
-     {
-      "id": "2",
-      "tittle": "Skin 2",
-      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/zombie%20mcpe/warna.html",
-      "link_file": "https://namemc.com/texture/590fcd51f0c58f22.png",
-      "images": "https://render.namemc.com/skin/3d/body.png?skin=590fcd51f0c58f22&model=classic&theta=30&phi=21&time=90&width=600&height=300"
-     }
+
   ]
 }
