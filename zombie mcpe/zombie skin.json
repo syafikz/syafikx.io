@@ -1,6 +1,6 @@
 {
   "pc": "com.ryangdev.zombieskin",
-  "switch_ads": "1",
+  "switch_ads": "2",
   "interval_inter": "2",
   "unity_ads": [      
     {
@@ -14,8 +14,8 @@
   "applovin": [      
     {
       "id_switch": "2",
-      "zone_banner": "29149b50a8c98c59",
-      "zone_inter": "70d116e79ba42436"
+      "zone_banner": "c8663fd4e5a512a6",
+      "zone_inter": "95e7c9605df3df65"
      }
   ],
   "list_content": [      
