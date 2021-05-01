@@ -1,5 +1,5 @@
-{
-  "pc": "com.zayviusdigital.guide40",
+
+"pc": "com.zayviusdigital.guide40",
   "switch_ads": "1",
   "interval_inter": "2",
   "unity_ads": [      
@@ -13,11 +13,25 @@
   ],
   "applovin": [      
     {
+      "id_switch": "2",
+      "zone_banner": "29149b50a8c98c59",
+      "zone_inter": "70d116e79ba42436"
+     }
+  ],
+  "list_content": [      
+    {
       "id": "1",
-      "tittle": "WWE SmackDown Vs. RAW 2011",
-      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/WWE%20SmackDown%20Vs.%20RAW%202011.html",
-      "link_file": "http://psp.freeroms.com/psp_roms/w/wwe_smackdown_vs_raw_2011.zip",
-      "images": "https://romsmania.cc/statics/assets/covers/playstation-portable/wwe-smackdown-vs-raw-2011-usa-playstation-portable_1483385112.jpg"
+      "tittle": "Guide 1",
+      "link_html": "",
+      "link_file": "",
+      "images": ""
+     },
+    {
+      "id": "2",
+      "tittle": "Guide 2",
+      "link_html": "",
+      "link_file": "",
+      "images": ""
      }
   ]
 }
