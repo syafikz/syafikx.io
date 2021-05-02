@@ -22,16 +22,9 @@
     {
       "id": "1",
       "tittle": "Guide 1",
-      "link_html": "",
-      "link_file": "",
-      "images": ""
-     },
-    {
-      "id": "2",
-      "tittle": "Guide 2",
-      "link_html": "",
-      "link_file": "",
-      "images": ""
+      "link_html": "https://raw.githubusercontent.com/syafikz/syafikx.io/main/test/1.html",
+      "link_file": "https://s2roms.cc/s3roms/psp/Dragon%20Ball%20Z%20-%20Shin%20Budokai%20%28USA%29.zip",
+      "images": "https://romsmania.cc/statics/assets/covers/playstation-portable/dragon-ball-z-shin-budokai-usa-playstation-portable_1483072150.jpg"
      }
   ]
 }
